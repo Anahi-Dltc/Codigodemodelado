@@ -1,0 +1,11 @@
+C:\Users\anahi\source\repos\MedPot\MedPot\bin\Debug\MedPot.exe.config
+C:\Users\anahi\source\repos\MedPot\MedPot\bin\Debug\MedPot.exe
+C:\Users\anahi\source\repos\MedPot\MedPot\bin\Debug\MedPot.pdb
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.csproj.AssemblyReference.cache
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.Form1.resources
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.Form2.resources
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.Properties.Resources.resources
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.csproj.GenerateResource.cache
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.csproj.CoreCompileInputs.cache
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.exe
+C:\Users\anahi\source\repos\MedPot\MedPot\obj\Debug\MedPot.pdb
